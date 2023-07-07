@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+button{
+  background-color: rgb(98, 196, 95);
+  cursor: pointer;
+
+}
+button:hover{
+  background-color: blue;
+}
+
